@@ -50,10 +50,12 @@ python main.py 2.5   # 2.5MB 이하로 맞추기 시도
    python main.py 2
    ```
 
+
+
 ## 🛠️ 의존성
 
 - Python 3.x
-- ffmpeg (https://ffmpeg.org/)
+- ffmpeg (https://ffmpeg.org/) (시스템에 설치 필요)
 
 ## 📑 라이선스
 
